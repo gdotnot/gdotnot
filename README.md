@@ -1,45 +1,39 @@
-<h1 style="color: #f1fa8c">Hey, my name is Guilherme!</h1>
-<p style="margin-top: 20px">
+# Hey, I'm Guilherme Alves! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-alves-dos-santos/)](https://www.linkedin.com/in/guilherme-alves-dos-santos/)
-[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:g.dotnot@gmail.com)](mailto:g.dotnot@gmail.com)
-[![Rocketseat Badge](https://img.shields.io/badge/-Rocketseat-7159c1?style=flat-square&logo=Apache-RocketMQ&logoColor=white&link=https://app.rocketseat.com.br/me/g-dotnot)](https://app.rocketseat.com.br/me/g-dotnot)
+**Software Engineer | Back-end Specialist**
 
-</p>
+I am a Back-End Developer with a solid background in building scalable systems. Currently, my main stack is **Kotlin**, but I have extensive experience with the **Node.js** ecosystem. I’m passionate about software design, cloud-native solutions, and continuous improvement.
 
-<p style="margin-top: 32px">
-My name is Guilherme Alves dos Santos, I've completed my degree in Analysis and Systems Development at <a href='https://www.impacta.edu.br/' style="color: #00bcd4">Faculdade Impacta Tecnologia</a> and I'm working as Back-End developer. Now I'm focused on learning software development best practices and the cloud computing ecosystem.
-
-In my free time, I love to watch series and movies 📺, play video games (RDR2 is my favorite one 💖) and I am also passionate about sculpting in clay 🎨
-</p>
-
-- :thinking: <span style="color:#ffb86c		">What am I studying?</span>
-  - Best software development standards like Clean Code, Clean Architecture, and software architecture solutions.
-  - Backend technologies like NodeJs, TypeScript, Go Lang, Design Patterns, Docker, and Kubernetes.
-  - NodeJs practices to improve my application's performance.
-  - AWS Cloud Services
-- 🔭 I’m currently working at <a href='https://en.semantix.ai/' style="color: #7159c1">Semantix Brasil</a>
-- 🏡 I live at Guarulhos, SP - Brazil
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-alves-dos-santos/)](https://www.linkedin.com/in/guilherme-alves-dos-santos/)
+[![Gmail Badge](https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:g.dotnot@gmail.com)](mailto:g.dotnot@gmail.com)
 
 ---
 
-<h3 style="color: #50fa7b	">Languages and tools</h3>
-<br>
+### 🚀 About Me
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+- 🛠️ Currently working at **Wellhub** (formerly Gympass), focusing on high-scale backend services.
+- 🎓 Graduated in **Analysis and Systems Development** from Faculdade Impacta.
+- 🎯 Deep diving into **Cloud Computing (AWS)**, **Software Architecture**, and **Distributed Systems**.
+- 🧠 I value Clean Code, TDD, and Domain-Driven Design (DDD).
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks**
+- **Primary:** Kotlin (Spring Boot).
+- **Secondary:** Node.js (TypeScript, NestJS).
+
+**Infrastructure & DevOps**
+- Docker, Kubernetes, AWS, CI/CD Pipelines.
+
+**Databases & Patterns**
+- PostgreSQL, DynamoDB, MongoDB.
+- Microservices, Clean Architecture.
 
 ---
-<h3 style="color: #bd93f9	">My stats ☺️:</h3>
 
-<p style="margin-top: 32px">
+### 🎨 Beyond Coding
 
-![Guilherme's github stats](https://github-readme-stats.vercel.app/api?username=gdotnot&show_icons=true&theme=outrun)
-
-</p>
-
+When I'm not in front of a terminal, you'll probably find me:
+- 🗿 **Sculpting in clay:** My favorite way to decompress and work on manual creativity.
+- 🎮 **Gaming:** Huge fan of immersive stories (RDR2 is a masterpiece).
+- 📺 **Movies & Series:** Always up for a good sci-fi or drama.
